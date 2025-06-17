@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Yell Min Naing (Stupd_Micro)
+# Hi there 👋, I'm Yell Min Naing
 
 ### 🔭 About Me
 - Passionate **Full-Stack Developer** specializing in **C# (.NET Core)** and **Angular**.
@@ -39,7 +39,7 @@ Check out my public repos for sample projects showcasing:
 
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/YellMinNaing) *(update with your real LinkedIn)*  
-- [Email](mailto:your.email@example.com) *(put your email)*  
+- [Email](mailto:your.email@example.com) *(yellminnaing5@gmail.com)*  
 - [Portfolio](https://yourportfolio.com) *(optional)*
 
 ---
