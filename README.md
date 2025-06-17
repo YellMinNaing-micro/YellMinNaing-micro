@@ -1,8 +1,9 @@
 # Hi there 👋, I'm Yell Min Naing
 
 ### 🔭 About Me
-- Passionate **Full-Stack Developer** specializing in **C# (.NET Core)** and **Angular**.
-- Enthusiastic about clean code, modern web technologies, and continuous learning.
+- I’m a full-stack developer who enjoys building web applications using C# (.NET Core) and Angular.
+- I like writing clean code and always try to learn new technologies to improve my skills.
+
 
 ### 💻 Tech Stack
 - Backend: C#, ASP.NET Core, Entity Framework
