@@ -13,7 +13,7 @@
 - Others: RESTful APIs, JWT Authentication
 
 ### 📫 How to Reach Me
-- [yellminnaing5@gmail.com](yellminnaing5@gmail.com)
+- [yellminnaing5@gmail.com](mailto:yellminnaing5@gmail.com)
 - [LinkedIn-YellMinNaing](https://www.linkedin.com/in/yellminnaing/)
 
 ```csharp
