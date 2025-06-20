@@ -3,6 +3,7 @@
 ### 🔭 About Me
 - I’m a full-stack developer who enjoys building web applications using C# (.NET Core) and Angular.
 - I like writing clean code and always try to learn new technologies to improve my skills.
+- *"I call myself 'Stupd_Micro' because I believe in learning every day — even if I look stupid today, I’ll be smarter tomorrow."*
 
 
 ### 💻 Tech Stack
