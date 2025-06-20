@@ -8,7 +8,7 @@
 ### 💻 Tech Stack
 - Backend: C#, ASP.NET Core, Entity Framework
 - Frontend: Angular, TypeScript, HTML5, CSS3
-- Databases: SQL Server, MySQL
+- Databases: SQL Server, MySQL, MongoDB
 - Tools: Git, Visual Studio, Postman, Docker (learning)
 - Others: RESTful APIs, JWT Authentication
 
