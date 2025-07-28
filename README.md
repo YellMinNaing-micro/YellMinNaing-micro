@@ -8,7 +8,7 @@
 
 ### 💻 Tech Stack
 - Backend: C#, .NET Core 6–9, Entity Framework, REST APIs (Swagger, Scaler-based)
-- Frontend: Angular (Standalone, SSR), TypeScript, PrimeNG, Tailwind, RxJS
+- Frontend: Angular (Standalone, SSR), TypeScript, PrimeNG, Tailwind, RxJS,  Ionic (actively learning for cross-platform mobile development)
 - Databases: SQL Server, MySQL, MongoDB
 - Tools: Git, Visual Studio, Postman, Docker (learning), Docker (Fedora SQL Server), GitHub Projects, CI/CD (planning), VS Code / JetBrains Rider
 - Others: RESTful APIs, JWT Authentication
