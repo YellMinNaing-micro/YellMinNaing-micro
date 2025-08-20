@@ -7,12 +7,18 @@
 
 
 ### 💻 Tech Stack
-- Backend: C#, .NET Core 6–9, Entity Framework, REST APIs (Swagger, Scaler-based)
-- Frontend: Angular (Standalone, SSR), TypeScript, PrimeNG, Tailwind, RxJS
-- Mobile: React Native (learning for mobile app development), Ionic (actively learning for cross-platform mobile development)
-- Databases: SQL Server, MySQL, MongoDB
-- Tools: Git, Visual Studio, Postman, Docker (learning), Docker (Fedora SQL Server), GitHub Projects, CI/CD (planning), VS Code / JetBrains Rider
-- Others: RESTful APIs, JWT Authentication
+* **Backend:**
+    * C#, .NET Core 6–9, Entity Framework, REST APIs (Swagger, Scaler-based)
+* **Frontend:**
+    * Angular (Standalone, SSR), TypeScript, PrimeNG, Tailwind, RxJS
+* **Mobile:**
+    * **Currently Learning:** React Native (with Expo), Ionic
+* **Database:**
+    * SQL Server, MySQL, MongoDB
+* **Tools:**
+    * Git, Visual Studio, Postman, Docker (learning), Docker (Fedora SQL Server), GitHub Projects, CI/CD (planning)
+* **Others:**
+    * RESTful APIs, JWT Authentication
 
 ### 📫 How to Reach Me
 - [yellminnaing5@gmail.com](mailto:yellminnaing5@gmail.com)
