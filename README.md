@@ -8,7 +8,7 @@
 
 ### 💻 Tech Stack
 * **Backend:**
-    * C#, .NET Core 6–9, Entity Framework, REST APIs (Swagger, Scaler-based)
+    * C#, .NET Core, Entity Framework, REST APIs (Swagger, Scaler-based)
 * **Frontend:**
     * Angular (Standalone, SSR), TypeScript, PrimeNG, Tailwind, RxJS
 * **Mobile:**
