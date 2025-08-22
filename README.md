@@ -16,7 +16,7 @@
 * **Database:**
     * SQL Server, MySQL, MongoDB
 * **Tools:**
-    * Git, Visual Studio, Postman, Docker (learning), Docker (Fedora SQL Server), GitHub Projects, CI/CD (planning)
+    * Git, Postman, Docker (learning), Docker (Fedora SQL Server), GitHub Projects, CI/CD (planning)
 * **Others:**
     * RESTful APIs, JWT Authentication
 
