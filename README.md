@@ -14,11 +14,13 @@
 * **Mobile:**
     * **Currently Learning:** React Native CLI, Ionic, Expo
 * **Database:**
-    * SQL Server, MySQL, MongoDB
+    * SQL Server, MySQL, MongoDB, Pivot Queries
 * **Tools:**
     * Git, Postman, Docker (learning), Docker (Fedora SQL Server), GitHub Projects, CI/CD (planning)
 * **Others:**
     * RESTful APIs, JWT Authentication
+* **Maps / Real-Time:**
+    * Google Maps API, Real-time State Updates
 
 ### 📫 How to Reach Me
 - [yellminnaing5@gmail.com](mailto:yellminnaing5@gmail.com)
