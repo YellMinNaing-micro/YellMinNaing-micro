@@ -12,7 +12,7 @@
 * **Frontend:**
     * Angular (Standalone, SSR), TypeScript, PrimeNG, Tailwind, RxJS
 * **Mobile:**
-    * **Currently Learning:** React Native CLI, Ionic, Expo
+    * React Native CLI, Ionic, Expo
 * **Database:**
     * SQL Server, MySQL, MongoDB, Pivot Queries
 * **Tools:**
