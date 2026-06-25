@@ -39,7 +39,7 @@
 ### 📫 How to Reach Me
 - [yellminnaing5@gmail.com](mailto:yellminnaing5@gmail.com)
 - [LinkedIn-YellMinNaing](https://www.linkedin.com/in/yellminnaing/)
-
+- Open to **remote opportunities**!
 ```csharp
 using System;
 
