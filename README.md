@@ -2,13 +2,17 @@
 
 ### 🔭 About Me
 - I’m a full-stack developer who enjoys building web applications using C# (.NET Core) and Angular.
-- I like writing clean code and always try to learn new technologies to improve my skills.
-- *"I call myself 'Stupd_Micro' because I believe in learning every day — even if I look stupid today, I’ll be smarter tomorrow."*
-
+- Strong believer in writing **clean, maintainable code** using **Clean Architecture**, **CQRS**, **Repository Pattern**, and **SOLID principles**
+- Experienced in full-stack development (Web + Mobile) with modern tools and best practices
+- Always learning new technologies — "Even if I look stupid today, I'll be smarter tomorrow"
 
 ### 💻 Tech Stack
 * **Backend:**
-    * C#, .NET Core, Entity Framework, REST APIs (Swagger, Scaler-based)
+    * C#, REST APIs
+    * **Entity Framework Core** • **Dapper**
+    * **Clean Architecture** • **CQRS (MediatR)** • **Repository & Unit of Work Pattern**
+    * **Microservices** • **Monolithic Applications**
+    * **JWT Authentication** • **Identity** • **Swagger**
 * **Frontend:**
     * Angular (Standalone, SSR), TypeScript, PrimeNG, Tailwind, RxJS
 * **Mobile:**
@@ -21,6 +25,14 @@
     * RESTful APIs, JWT Authentication
 * **Maps / Real-Time:**
     * Google Maps API, Real-time State Updates
+
+### 📊 What I'm Currently Working On
+
+- Improving architecture in production projects
+- Deepening knowledge in **Microservices**, **Event-Driven Systems**, and **CI/CD pipelines**
+- Building more production-grade **React Native** applications
+
+---
 
 ### 📫 How to Reach Me
 - [yellminnaing5@gmail.com](mailto:yellminnaing5@gmail.com)
