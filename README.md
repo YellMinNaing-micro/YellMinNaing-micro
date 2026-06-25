@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Yell Min Naing [![committers.top badge](https://user-badge.committers.top/myanmar_private/YellMinNaing-micro.svg)](https://user-badge.committers.top/myanmar_private/YellMinNaing-micro)
 
+**Full-Stack .NET Developer** | Passionate about building scalable web & mobile applications
+
 ### 🔭 About Me
 - I’m a full-stack developer who enjoys building web applications using C# (.NET Core) and Angular.
 - Strong believer in writing **clean, maintainable code** using **Clean Architecture**, **CQRS**, **Repository Pattern**, and **SOLID principles**
