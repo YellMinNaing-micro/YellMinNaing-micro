@@ -22,7 +22,7 @@
 * **Database:**
     * SQL Server, MySQL, MongoDB, Pivot Queries
 * **Tools:**
-    * Git, Postman, Docker , Docker (Fedora SQL Server), GitHub Projects, CI/CD 
+    * Git, Postman, Docker, GitHub Projects, CI/CD
 * **Others:**
     * RESTful APIs, JWT Authentication
 * **Maps / Real-Time:**
