@@ -13,7 +13,6 @@ I build production-ready web, mobile, and hardware-integrated applications for b
 - Full-stack developer experienced in **ASP.NET Core**, **Angular**, and **React Native**
 - Build complete applications across backend APIs, web interfaces, mobile apps, and databases
 - Work with specialized hardware integrations, including **UHF RFID scanners** and **Zebra barcode printers**
-- Develop business solutions for **HR management, POS, laboratory workflows, inventory, and reporting**
 - Apply **Clean Architecture**, **Vertical Slice Architecture**, **CQRS**, and **SOLID principles**
 - Interested in scalable systems, software architecture, and production-grade engineering
 
