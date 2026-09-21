@@ -134,7 +134,7 @@ React Native mobile application with local data storage and hiking activity mana
 
 ### Velo Chat
 
-React Native chat application exploring mobile communication workflows.
+Full-stack real-time messaging platform with an ASP.NET Core and SignalR backend, React web client, Expo React Native mobile app, SQL Server, and MongoDB.
 
 [View Repository](https://github.com/YellMinNaing-micro/Velo-Chat)
 
