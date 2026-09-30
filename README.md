@@ -2,9 +2,9 @@
 
 [![committers.top badge](https://user-badge.committers.top/myanmar_private/YellMinNaing-micro.svg)](https://user-badge.committers.top/myanmar_private/YellMinNaing-micro)
 
-**Full-Stack Software Engineer | ASP.NET Core • Angular • React Native**
+**Full-Stack Software Developer | ASP.NET Core • Angular • React Native**
 
-🌐 Portfolio: https://yellminnaing.pages.dev/  
+🌐 https://yellminnaing.pages.dev/  
 
 I build production-ready web, mobile, and hardware-integrated applications for business operations, healthcare, inventory management, and reporting.
 
