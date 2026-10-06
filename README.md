@@ -1,162 +1,92 @@
 # Hi, I'm Yell Min Naing 👋
 
-[![committers.top badge](https://user-badge.committers.top/myanmar_private/YellMinNaing-micro.svg)](https://user-badge.committers.top/myanmar_private/YellMinNaing-micro)
-
 **Full-Stack Software Developer | ASP.NET Core • Angular • React Native**
 
-🌐 https://yellminnaing.pages.dev/  
+I build production-ready web, mobile, real-time, and hardware-integrated applications for business operations, healthcare, inventory management, and reporting.
 
-I build production-ready web, mobile, and hardware-integrated applications for business operations, healthcare, inventory management, and reporting.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FFCB4D?style=for-the-badge&logo=cloudflare&logoColor=111432)](https://yellminnaing.pages.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yellminnaing/)
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4C78?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yellminnaing5@gmail.com)
 
----
+## What I bring
 
-## About Me
+- Build complete products across backend APIs, web interfaces, mobile apps, and databases
+- Apply Clean Architecture, Vertical Slice Architecture, CQRS, SOLID, and automated testing
+- Integrate specialized hardware including UHF RFID scanners and Zebra barcode printers
+- Work with real-time communication, healthcare workflows, reporting, and CI/CD pipelines
 
-- Full-stack developer experienced in **ASP.NET Core**, **Angular**, and **React Native**
-- Build complete applications across backend APIs, web interfaces, mobile apps, and databases
-- Work with specialized hardware integrations, including **UHF RFID scanners** and **Zebra barcode printers**
-- Apply **Clean Architecture**, **Vertical Slice Architecture**, **CQRS**, and **SOLID principles**
-- Interested in scalable systems, software architecture, and production-grade engineering
+## Tech stack
 
----
+| Area | Technologies |
+| --- | --- |
+| Backend | C#, ASP.NET Core, EF Core, Dapper, CQRS, MediatR, REST APIs |
+| Frontend | Angular, TypeScript, RxJS, PrimeNG, Tailwind CSS |
+| Mobile | React Native, Expo, Ionic, Kotlin, SQLite |
+| Data | SQL Server, MariaDB/MySQL, MongoDB |
+| DevOps | Docker, GitHub Actions, CI/CD, IIS, Swagger/OpenAPI |
 
-## Technical Skills
-
-### Backend Development
-
-- C# and ASP.NET Core Web APIs
-- Entity Framework Core and Dapper
-- RESTful API design and integration
-- JWT authentication and ASP.NET Core Identity
-- Repository and Unit of Work patterns
-- CQRS with MediatR
-- Clean Architecture and Vertical Slice Architecture
-
-### Frontend Development
-
-- Angular and TypeScript
-- Standalone components and server-side rendering
-- RxJS and application state management
-- PrimeNG and Tailwind CSS
-- Responsive business dashboards and reporting interfaces
-
-### Mobile Development
-
-- React Native CLI and Expo
-- Ionic
-- Android native integration with Kotlin
-- SQLite and local storage
-- Hardware SDK integration
-
-### Databases
-
-- SQL Server
-- MySQL
-- MongoDB
-- Stored procedures and complex SQL queries
-- Pivot queries and reporting
-- Database performance optimization
-
-### DevOps and Tools
-
-- Git and GitHub
-- Docker
-- IIS deployment
-- Swagger and OpenAPI
-- Postman
-- CI/CD workflows
-
----
-
-## Hardware and System Integrations
-
-### UHF RFID Stock Checking
-
-Developed RFID scanning solutions for inventory and stock-check workflows.
-
-- Integrated UHF RFID hardware with React Native applications
-- Built a custom **Kotlin native module** to communicate with the device SDK
-- Implemented real-time RFID tag scanning
-- Supported EPC reading, RFID tag writing, and signal strength monitoring
-- Integrated physical hardware trigger buttons for handheld scanners
-
-**Technologies:** React Native CLI, Kotlin, Android SDK, UHF RFID
-
-### Zebra Barcode Printing
-
-Implemented direct barcode label printing for laboratory and operational workflows.
-
-- Generated printer-ready labels using **ZPL — Zebra Programming Language**
-- Integrated **Zebra Browser Print SDK** into web applications
-- Produced **Code 128** barcode labels for laboratory sample identification
-- Improved barcode printing reliability for healthcare workflows
-- Configured label dimensions and printer output for physical barcode scanners
-
-**Technologies:** Angular, TypeScript, Zebra Browser Print SDK, ZPL, Code 128
-
-### Healthcare Integration
-
-Worked on healthcare and laboratory system workflows involving:
-
-- HL7 template and message building
-- Laboratory sample identification
-- Patient and laboratory voucher workflows
-- Barcode-based sample tracking
-- Medical workflow and device-related integrations
-
-**Technologies:** ASP.NET Core, Angular, HL7, SQL Server
-
----
-
-## Featured Projects
-
-### RFID UHF Scanner
-
-React Native application integrating handheld UHF RFID scanners through a custom Kotlin native bridge.
-
-[View Repository](https://github.com/YellMinNaing-micro/RFID-UHF-Scanner)
+## Featured projects
 
 ### Clean Architecture Vertical Slice Template
 
-ASP.NET Core project template demonstrating Clean Architecture, vertical slices, and maintainable backend organization.
+A production-ready ASP.NET Core template built around clean vertical slices, CQRS, and maintainable boundaries.
 
-[View Repository](https://github.com/YellMinNaing-micro/CleanArchitecture.VerticalSlice.Template)
+**Engineering highlights:** CI, CodeQL, Codecov, architecture tests, integration tests, and Dependabot.
 
-### Employee HR Management System
-
-Full-stack application for employee and HR management workflows.
-
-[View Repository](https://github.com/YellMinNaing-micro/EmployeeHRManagementSystem)
-
-### M-Hike
-
-React Native mobile application with local data storage and hiking activity management.
-
-[View Repository](https://github.com/YellMinNaing-micro/M-Hike)
+[View repository](https://github.com/YellMinNaing-micro/CleanArchitecture.VerticalSlice.Template)
 
 ### Velo Chat
 
-Full-stack real-time messaging platform with an ASP.NET Core and SignalR backend, React web client, Expo React Native mobile app, SQL Server, and MongoDB.
+A full-stack real-time messaging system across web and mobile using ASP.NET Core, SignalR, React, Expo, SQL Server, and MongoDB.
 
-[View Repository](https://github.com/YellMinNaing-micro/Velo-Chat)
+**Highlights:** JWT authentication, live SignalR communication, responsive web UI, and a cross-platform mobile client.
+
+[View repository](https://github.com/YellMinNaing-micro/Velo-Chat)
+
+### KitVerse — Football Jersey E-commerce Platform
+
+A deployed PHP and MariaDB e-commerce system with product variants, size-level inventory, jersey personalization, checkout, payment workflows, order tracking, and an admin dashboard.
+
+[Live demo](https://kitverse.site.je/) · [View repository](https://github.com/YellMinNaing-micro/kitverse)
+
+### RFID UHF Scanner
+
+A React Native application that communicates with handheld UHF RFID hardware through a custom Kotlin native bridge.
+
+**Highlights:** EPC reading and writing, real-time tag scanning, signal-strength monitoring, and physical trigger controls.
+
+[View repository](https://github.com/YellMinNaing-micro/RFID-UHF-Scanner)
+
+### Report Hub
+
+An Expo and React Native app for capturing images, generating PDF reports, and sharing files directly from a mobile device.
+
+[View repository](https://github.com/YellMinNaing-micro/Report_Hub)
+
+### Employee HR Management System
+
+A full-stack application for employee records, attendance, payroll, approvals, and operational reporting.
+
+[View repository](https://github.com/YellMinNaing-micro/EmployeeHRManagementSystem)
 
 > Some production applications and integrations are maintained in private repositories.
 
----
+## Specialized integrations
 
-## Currently Exploring
+- **UHF RFID:** React Native and a custom Kotlin module for EPC reading, tag writing, signal strength, and hardware trigger controls
+- **Zebra printing:** Browser Print SDK and ZPL-based Code 128 labels for healthcare and laboratory workflows
+- **Healthcare:** HL7 messaging, laboratory samples, voucher workflows, and barcode-based tracking
+
+## Currently exploring
 
 - Microservices and event-driven architecture
-- Advanced system design
-- Production-grade CI/CD pipelines
-- Scalable backend architecture
-- Mobile native integrations
-- Full-stack software architecture
+- Advanced system design and scalable backend architecture
+- Production-grade CI/CD and observability
 
----
+## Let's connect
 
-## Contact
+I'm open to **Software Engineer** and **Full-Stack Developer** opportunities.
 
-- **Email:** [yellminnaing5@gmail.com](mailto:yellminnaing5@gmail.com)
-- **LinkedIn:** [Yell Min Naing](https://www.linkedin.com/in/yellminnaing/)
-- Open to **Software Engineer** and **Full-Stack Developer** opportunities
+- [Portfolio](https://yellminnaing.pages.dev/)
+- [LinkedIn](https://www.linkedin.com/in/yellminnaing/)
+- [Email](mailto:yellminnaing5@gmail.com)
