@@ -1,17 +1,18 @@
 # Hi, I'm Yell Min Naing 👋
 
+[![committers.top badge](https://user-badge.committers.top/myanmar_private/YellMinNaing-micro.svg)](https://user-badge.committers.top/myanmar_private/YellMinNaing-micro)
+
 **Full-Stack Software Developer | ASP.NET Core • Angular • React Native**
 
 I build production-ready web, mobile, real-time, and hardware-integrated applications for business operations, healthcare, inventory management, and reporting.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FFCB4D?style=for-the-badge&logo=cloudflare&logoColor=111432)](https://yellminnaing.pages.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yellminnaing/)
-[![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4C78?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yellminnaing5@gmail.com)
+🌐 [Portfolio](https://yellminnaing.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/yellminnaing/) · [Email](mailto:yellminnaing5@gmail.com)
 
 ## What I bring
 
 - Build complete products across backend APIs, web interfaces, mobile apps, and databases
-- Apply Clean Architecture, Vertical Slice Architecture, CQRS, SOLID, and automated testing
+- Design monolithic and microservice systems using Clean Architecture, Vertical Slice Architecture, CQRS, SOLID, and automated testing
+- Organize full-stack applications and shared packages using monorepo patterns
 - Integrate specialized hardware including UHF RFID scanners and Zebra barcode printers
 - Work with real-time communication, healthcare workflows, reporting, and CI/CD pipelines
 
@@ -20,6 +21,7 @@ I build production-ready web, mobile, real-time, and hardware-integrated applica
 | Area | Technologies |
 | --- | --- |
 | Backend | C#, ASP.NET Core, EF Core, Dapper, CQRS, MediatR, REST APIs |
+| Architecture | Monolithic systems, Microservices, Monorepo, Clean Architecture, Vertical Slices |
 | Frontend | Angular, TypeScript, RxJS, PrimeNG, Tailwind CSS |
 | Mobile | React Native, Expo, Ionic, Kotlin, SQLite |
 | Data | SQL Server, MariaDB/MySQL, MongoDB |
@@ -79,8 +81,8 @@ A full-stack application for employee records, attendance, payroll, approvals, a
 
 ## Currently exploring
 
-- Microservices and event-driven architecture
-- Advanced system design and scalable backend architecture
+- Event-driven and distributed system design
+- Scalable backend architecture and observability
 - Production-grade CI/CD and observability
 
 ## Let's connect
