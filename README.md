@@ -82,7 +82,7 @@ A full-stack application for employee records, attendance, payroll, approvals, a
 ## Currently exploring
 
 - Event-driven and distributed system design
-- Scalable backend architecture and observability
+- Scalable backend architecture and performance
 - Production-grade CI/CD and observability
 
 ## Let's connect
